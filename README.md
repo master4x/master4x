@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">I am leisure frontend developer from Germany.</h3>
+<h3 align="center">I am a leisure frontend developer from Germany.</h3>
 
 <p align="middle"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -20,7 +20,5 @@
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/master4x?tab=repositories](https://github.com/master4x?tab=repositories)
-
-- 📝 I regulary write articles on [https://twitter.com/Leon_liko](https://twitter.com/Leon_liko)
 
 - 📫 How to reach me via [my website](https://blog.lnkel.de)
