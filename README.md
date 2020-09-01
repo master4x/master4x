@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [Sustaining-Everybody-counts](https://github.com/Sustaining-Everybody-counts/frontend)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** in school.
 
 - 👨‍💻 All of my projects are available at [https://github.com/master4x?tab=repositories](https://github.com/master4x?tab=repositories)
 
