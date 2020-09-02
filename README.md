@@ -19,6 +19,6 @@
 
 - 🌱 I’m currently learning **Java** in school.
 
-- 👨‍💻 All of my projects are available at [https://github.com/master4x?tab=repositories](https://github.com/master4x?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/master4x?tab=repositories)
 
 - 📫 How to reach me via [my website](https://blog.lnkel.de)
