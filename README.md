@@ -13,10 +13,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </p>
 
-- 🔭 I’m currently working on [Sustaining-Everybody-counts](https://github.com/Sustaining-Everybody-counts/frontend)
+- 🔭 I’m currently working on [Sustaining-Everybody-counts](https://github.com/Sustaining-Everybody-counts/frontend) as part of ERASMUS+
 
-- 🌱 I’m currently learning **Java** in school.
+- 🌱 I’m currently learning **Java** in school after finished C++ last year!
 
-- 👨‍💻 All of my projects are available [here](https://github.com/master4x?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/master4x?tab=repositories) on GitHub
 
 - 📫 You can reach me [right here](https://master4x.github.io/bootstrap-contact/)
