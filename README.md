@@ -19,4 +19,4 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/master4x?tab=repositories)
 
-- 📫 How to reach me via [my website](https://blog.lnkel.de)
+- 📫 You can reach me [right here](https://master4x.github.io/bootstrap-contact/)
