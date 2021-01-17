@@ -15,8 +15,6 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=master4x&label=Profile%20views&color=0e75b6&style=flat" alt="master4x" /> </p>
-
 - 🔭 I’m currently working on [Sustaining-Everybody-counts](https://github.com/Sustaining-Everybody-counts/frontend) as part of ERASMUS+
 
 - 🌱 I’m currently learning **Java** in school after finished **C++** last year!
