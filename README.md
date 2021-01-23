@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/master4x?tab=repositories) on GitHub
 
-- 📫 How to reach me [*contact form*](https://master4x.github.io/contact/)
+- 📫 Reach me via my [*contact form*](https://master4x.github.io/contact/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master4x&show_icons=true&theme=dracula&locale=en" alt="master4x" /></p>
 
