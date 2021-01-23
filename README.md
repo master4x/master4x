@@ -25,7 +25,7 @@
 
 - 📫 Reach me via my [*contact form*](https://master4x.github.io/contact/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master4x&show_icons=true&theme=dracula&locale=en" alt="master4x" /></p>
+![GitHub metrics](https://metrics.lecoq.io/master4x)  
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lnkelle"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lnkelle" /></a></p><br><br>
