@@ -19,7 +19,9 @@
 
 - 🌱 I’m currently learning **Java** in school after finished **C++** last year!
 
-- 👨‍💻 All of my projects are available [here](https://github.com/master4x?tab=repositories) on GitHub
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/master4x?tab=repositories)
+
+- 💬 I’m writing some cheatsheets on [Gist](https://gist.github.com/master4x)
 
 - 📫 Reach me via my [*contact form*](https://master4x.github.io/contact/)
 
